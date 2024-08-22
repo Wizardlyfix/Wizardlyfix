@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy Ingeniero Electrónico experiencia en investigación académica en el tema de gestión inteligente de energía, Python, IA, MATLAB/Simulink.
+
 <!--
 **Wizardlyfix/Wizardlyfix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
